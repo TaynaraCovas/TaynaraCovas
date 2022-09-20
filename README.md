@@ -1,4 +1,6 @@
 ## Olá! Eu sou a Taynara Covas. 
+## Atulamente cursando Doutorade em Química na Universidade Federal de Goiás (UFG).
+## Porém, atualmente, estou migrando para área de de Ciência de Dados, com enfoque na linguagem de programação Python. 
 <a href="https://github.com/TaynaraCovas">
 
 
